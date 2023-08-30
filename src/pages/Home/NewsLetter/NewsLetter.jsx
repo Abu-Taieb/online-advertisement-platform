@@ -19,7 +19,7 @@ const NewsLetter = () => {
           </div>
           <div className="w-full md:w-1/2 py-10 px-5">
             <div className="">
-              <h6 className="font-bold">Hey there!</h6>
+              <h6 className="font-bold">Hey there!!</h6>
               <h2 className="text-5xl font-bold  text-orange-500">
                 Subscribe to
               </h2>
