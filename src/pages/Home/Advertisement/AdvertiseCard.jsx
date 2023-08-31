@@ -4,7 +4,7 @@ const AdvertiseCard = ({ add }) => {
   const { _id, image, name, description, rating } = add;
 
   return (
-    <div>
+    <div className="">
       <div className="card bg-base-100 shadow-xl border border-b-0 border-t-orange-200 border-r-orange-100 border-l-orange-100">
         <figure>
           <img src={image} alt="Shoes" />

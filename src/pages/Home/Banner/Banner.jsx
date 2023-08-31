@@ -6,9 +6,9 @@ const Banner = () => {
       <Fade left>
       <div className="text-white space-y-3 md:space-y-4">
           <p className="text-lg font-semibold">INTRODUCING SPYRO MARKETING LANDING PAGE THEME</p>
-          <h1 className="text-3xl md:text-5xl font-bold"> Build high converting landing pages in <br></br> minutes with spyro</h1>
-          <p>Carefully crafted after analyzing the needs of different industries and the design achieves a great balance between purpose & presentation.</p>
-          <button className="btn btn-secondary">Purchase Now</button>
+          <h1 className="text-3xl md:text-5xl font-bold py-2"> Build high converting landing pages in <br></br> minutes with spyro</h1>
+          <p className='py-6'>Carefully crafted after analyzing the needs of different industries and the design achieves a great balance between purpose & presentation.</p>
+          <button className="btn bg-orange-500 text-white border-orange-500 hover:text-orange-500 hover:border hover:border-orange-500 hover:bg-white">Purchase Now</button>
       </div>
       </Fade>
       <Fade right>
