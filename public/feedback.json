@@ -1,44 +1,44 @@
 [
   {
     "id": 1,
-    "commpanyName": "XIAOMI",
+    "commpanyName": "Michel Hussy",
     "feedback": "Impressive results! Precise targeting and real-time analytics helped us effectively engage our audience in our summer campaign. The platform's flexibility contributed to our success.",
     "rating": 4.8,
-    "img": "https://www.shopz.com.bd/wp-content/uploads/2021/10/Xiaomi-logo.png"
+    "img": "https://i.postimg.cc/hGjCNqpD/pexels-mikhail-nilov-6981006.jpg"
   },
   {
     "id": 2,
-    "commpanyName": "SHINECON",
+    "commpanyName": "David SHINECON",
     "feedback": "Exceeded expectations! User-friendly interface, easy ad management, and detailed reports optimized our strategy for exceptional ROI. Highly recommend for any campaign.",
     "rating": 4.6,
-    "img": "https://www.shopz.com.bd/wp-content/uploads/2022/05/SHINECON-Logo.jpg"
+    "img": "https://i.postimg.cc/LstXdrXW/pexels-linkedin-sales-navigator-2182970.jpg"
   },
   {
     "id": 3,
-    "commpanyName": "JOYROOM",
+    "commpanyName": "Mithcel Jhonson",
     "feedback": "Great brand impact! Targeting options were spot-on, and the responsive support team played a key role in the success of our brand awareness campaign.",
-    "rating": 4.9,
-    "img": "https://www.shopz.com.bd/wp-content/uploads/2022/05/Joyroom-Logo.jpg"
+    "rating": 4.1,
+    "img": "https://i.postimg.cc/fR6tQcvV/pexels-andrea-piacquadio-3779414.jpg"
   },
   {
     "id": 4,
-    "commpanyName": "REALME",
+    "commpanyName": "Stive Smith",
     "feedback": "Outstanding platform! Quick results and intuitive controls simplified our product launch campaign. This tool is now a crucial part of our marketing strategy.",
     "rating": 4.7,
-    "img": "https://www.shopz.com.bd/wp-content/uploads/2022/04/Realme-logo.jpg"
+    "img": "https://i.postimg.cc/FR00BW5F/pexels-dinielle-de-veyra-4195342.jpg"
   },
   {
     "id": 5,
-    "commpanyName": "UGREEN",
+    "commpanyName": "David Warner",
     "feedback": "Exceptional service! The ad platform's insightful analytics empowered us to make informed decisions, significantly boosting our marketing efforts. Highly valued.",
     "rating": 4.5,
-    "img": "https://www.shopz.com.bd/wp-content/uploads/2022/05/UGREEN-Logo.jpg"
+    "img": "https://i.postimg.cc/qMD6jVhX/pexels-anna-shvets-5325105.jpg"
   },
   {
     "id": 6,
-    "commpanyName": "SUPER STAR GROUP",
+    "commpanyName": "Methu Heidden",
     "feedback": "Streamlined success! Effortless campaign creation, accurate targeting, and responsive support made reaching our goals an achievable endeavor. Highly recommended solution.",
-    "rating": 4.9,
-    "img": "https://www.shopz.com.bd/wp-content/uploads/2023/03/Super-Star-Logo.jpg"
+    "rating": 4.4,
+    "img": "https://i.postimg.cc/fyLT9yK4/pexels-kampus-production-8353841.jpg"
   }
 ]
