@@ -1,609 +1,83 @@
 [
   {
-    "id": "ad101",
-    "company": {
-      "name": "EcoTech Solutions",
-      "logo_url": "https://www.shopz.com.bd/wp-content/uploads/2022/04/Realme-logo.jpg",
-      "website": "https://www.ecotechsolutions.com",
-      "tagline": "Empowering a Sustainable Future",
-      "overview": "EcoTech Solutions is a leading provider of eco-friendly energy solutions, committed to reducing carbon footprint and promoting green living.",
-      "mission": "Our mission is to provide innovative and reliable renewable energy solutions that contribute to a cleaner and greener planet.",
-      "values": ["Sustainability", "Innovation", "Customer-Centric Approach"],
-      "contact": {
-        "email": "info@ecotechsolutions.com",
-        "phone": "+789-012-3456",
-        "address": {
-          "street": "789 Eco Street",
-          "city": "Greenville",
-          "state": "Sustainville",
-          "postal_code": "54321",
-          "country": "EcoLand"
-        }
-      },
-      "social_media": {
-        "twitter": "https://www.twitter.com/ecotechsolutions",
-        "linkedin": "https://www.linkedin.com/company/ecotechsolutions",
-        "facebook": "https://www.facebook.com/ecotechsolutions"
-      },
-      "awards": ["Green Innovator Award 2022", "Sustainability Excellence Award"],
-      "certifications": ["ISO 14001:2015", "Energy Star Partner"],
-      "team": [
-        {
-          "name": "John Green",
-          "title": "Founder and CEO",
-          "bio": "John Green is a visionary leader with over 20 years of experience in the renewable energy industry...",
-          "linkedin": "https://www.linkedin.com/in/johngreen"
-        },
-        {
-          "name": "Emily Woods",
-          "title": "Chief Sustainability Officer",
-          "bio": "Emily Woods is a passionate advocate for sustainable practices...",
-          "linkedin": "https://www.linkedin.com/in/emilywoods"
-        }
-      ],
-      "partnerships": [
-        {
-          "name": "SolarTech Innovations",
-          "logo_url": "https://www.solarTechInnovations.com/logo.png",
-          "website": "https://www.solartechinnovations.com"
-        },
-        {
-          "name": "GreenLiving Foundation",
-          "logo_url": "https://www.greenlivingfoundation.org/logo.png",
-          "website": "https://www.greenlivingfoundation.org"
-        }
-      ]
-    },
-    "advertisement": {
-      "title": "Harness the Power of Green Energy",
-      "description": "Go eco-friendly with our solar panels and energy-efficient solutions. Save money and the environment.",
-      "image_url": "https://www.ecotechsolutions.com/images/green-energy.jpg",
-      "cta_text": "Learn More",
-      "cta_url": "https://www.ecotechsolutions.com/green-energy",
-      "promo_code": "ECOPOWER20",
-      "valid_until": "2023-12-31",
-      "additional_images": [
-        "https://www.ecotechsolutions.com/images/solar-panel-1.jpg",
-        "https://www.ecotechsolutions.com/images/solar-panel-2.jpg"
-      ],
-      "features": [
-        "Highly efficient solar panels",
-        "Advanced energy storage solutions",
-        "Smart energy management systems"
-      ],
-      "usage_examples": [
-        "Residential solar installations",
-        "Commercial energy optimization",
-        "Off-grid power solutions"
-      ],
-      "benefits": [
-        "Reduced energy bills",
-        "Lower carbon footprint",
-        "Energy independence"
-      ],
-      "reviews": [
-        {
-          "author": "GreenEnthusiast123",
-          "rating": 4.8,
-          "comment": "The solar panels transformed my energy consumption. Highly recommend!"
-        },
-        {
-          "author": "ClimateAdvocate456",
-          "rating": 5.0,
-          "comment": "A step towards a sustainable future. Exceptional products and service."
-        }
-      ],
-      "analytics": {
-        "views": 1523,
-        "clicks": 326,
-        "conversion_rate": "21%"
-      }
-    }
+    "id": 1,
+    "name": "XIAOMI",
+    "category": "Special Offers",
+    "image": "https://www.shopz.com.bd/wp-content/uploads/2021/10/Xiaomi-logo.png",
+    "description": "Xiaomi Corporation is a biggest Chinese multinational electronics company founded in April 2010 by entrepreneur.",
+    "price": 0,
+    "ratings": 4.7
   },
   {
-    "id": "ad101",
-    "company": {
-      "name": "EcoTech Solutions",
-      "logo_url": "https://www.shopz.com.bd/wp-content/uploads/2022/04/Realme-logo.jpg",
-      "website": "https://www.ecotechsolutions.com",
-      "tagline": "Empowering a Sustainable Future",
-      "overview": "EcoTech Solutions is a leading provider of eco-friendly energy solutions, committed to reducing carbon footprint and promoting green living.",
-      "mission": "Our mission is to provide innovative and reliable renewable energy solutions that contribute to a cleaner and greener planet.",
-      "values": ["Sustainability", "Innovation", "Customer-Centric Approach"],
-      "contact": {
-        "email": "info@ecotechsolutions.com",
-        "phone": "+789-012-3456",
-        "address": {
-          "street": "789 Eco Street",
-          "city": "Greenville",
-          "state": "Sustainville",
-          "postal_code": "54321",
-          "country": "EcoLand"
-        }
-      },
-      "social_media": {
-        "twitter": "https://www.twitter.com/ecotechsolutions",
-        "linkedin": "https://www.linkedin.com/company/ecotechsolutions",
-        "facebook": "https://www.facebook.com/ecotechsolutions"
-      },
-      "awards": ["Green Innovator Award 2022", "Sustainability Excellence Award"],
-      "certifications": ["ISO 14001:2015", "Energy Star Partner"],
-      "team": [
-        {
-          "name": "John Green",
-          "title": "Founder and CEO",
-          "bio": "John Green is a visionary leader with over 20 years of experience in the renewable energy industry...",
-          "linkedin": "https://www.linkedin.com/in/johngreen"
-        },
-        {
-          "name": "Emily Woods",
-          "title": "Chief Sustainability Officer",
-          "bio": "Emily Woods is a passionate advocate for sustainable practices...",
-          "linkedin": "https://www.linkedin.com/in/emilywoods"
-        }
-      ],
-      "partnerships": [
-        {
-          "name": "SolarTech Innovations",
-          "logo_url": "https://www.solarTechInnovations.com/logo.png",
-          "website": "https://www.solartechinnovations.com"
-        },
-        {
-          "name": "GreenLiving Foundation",
-          "logo_url": "https://www.greenlivingfoundation.org/logo.png",
-          "website": "https://www.greenlivingfoundation.org"
-        }
-      ]
-    },
-    "advertisement": {
-      "title": "Harness the Power of Green Energy",
-      "description": "Go eco-friendly with our solar panels and energy-efficient solutions. Save money and the environment.",
-      "image_url": "https://www.ecotechsolutions.com/images/green-energy.jpg",
-      "cta_text": "Learn More",
-      "cta_url": "https://www.ecotechsolutions.com/green-energy",
-      "promo_code": "ECOPOWER20",
-      "valid_until": "2023-12-31",
-      "additional_images": [
-        "https://www.ecotechsolutions.com/images/solar-panel-1.jpg",
-        "https://www.ecotechsolutions.com/images/solar-panel-2.jpg"
-      ],
-      "features": [
-        "Highly efficient solar panels",
-        "Advanced energy storage solutions",
-        "Smart energy management systems"
-      ],
-      "usage_examples": [
-        "Residential solar installations",
-        "Commercial energy optimization",
-        "Off-grid power solutions"
-      ],
-      "benefits": [
-        "Reduced energy bills",
-        "Lower carbon footprint",
-        "Energy independence"
-      ],
-      "reviews": [
-        {
-          "author": "GreenEnthusiast123",
-          "rating": 4.8,
-          "comment": "The solar panels transformed my energy consumption. Highly recommend!"
-        },
-        {
-          "author": "ClimateAdvocate456",
-          "rating": 5.0,
-          "comment": "A step towards a sustainable future. Exceptional products and service."
-        }
-      ],
-      "analytics": {
-        "views": 1523,
-        "clicks": 326,
-        "conversion_rate": "21%"
-      }
-    }
+    "id": 2,
+    "name": "SHINECON",
+    "category": "Electronics",
+    "image": "https://www.shopz.com.bd/wp-content/uploads/2022/05/SHINECON-Logo.jpg",
+    "description": "Shinecon Eco VR headsets are designed to provide an immersive virtual reality experience, allowing users to engage with.",
+    "price": 0,
+    "ratings": 4.2
   },
   {
-    "id": "ad101",
-    "company": {
-      "name": "EcoTech Solutions",
-      "logo_url": "https://www.shopz.com.bd/wp-content/uploads/2022/04/Realme-logo.jpg",
-      "website": "https://www.ecotechsolutions.com",
-      "tagline": "Empowering a Sustainable Future",
-      "overview": "EcoTech Solutions is a leading provider of eco-friendly energy solutions, committed to reducing carbon footprint and promoting green living.",
-      "mission": "Our mission is to provide innovative and reliable renewable energy solutions that contribute to a cleaner and greener planet.",
-      "values": ["Sustainability", "Innovation", "Customer-Centric Approach"],
-      "contact": {
-        "email": "info@ecotechsolutions.com",
-        "phone": "+789-012-3456",
-        "address": {
-          "street": "789 Eco Street",
-          "city": "Greenville",
-          "state": "Sustainville",
-          "postal_code": "54321",
-          "country": "EcoLand"
-        }
-      },
-      "social_media": {
-        "twitter": "https://www.twitter.com/ecotechsolutions",
-        "linkedin": "https://www.linkedin.com/company/ecotechsolutions",
-        "facebook": "https://www.facebook.com/ecotechsolutions"
-      },
-      "awards": ["Green Innovator Award 2022", "Sustainability Excellence Award"],
-      "certifications": ["ISO 14001:2015", "Energy Star Partner"],
-      "team": [
-        {
-          "name": "John Green",
-          "title": "Founder and CEO",
-          "bio": "John Green is a visionary leader with over 20 years of experience in the renewable energy industry...",
-          "linkedin": "https://www.linkedin.com/in/johngreen"
-        },
-        {
-          "name": "Emily Woods",
-          "title": "Chief Sustainability Officer",
-          "bio": "Emily Woods is a passionate advocate for sustainable practices...",
-          "linkedin": "https://www.linkedin.com/in/emilywoods"
-        }
-      ],
-      "partnerships": [
-        {
-          "name": "SolarTech Innovations",
-          "logo_url": "https://www.solarTechInnovations.com/logo.png",
-          "website": "https://www.solartechinnovations.com"
-        },
-        {
-          "name": "GreenLiving Foundation",
-          "logo_url": "https://www.greenlivingfoundation.org/logo.png",
-          "website": "https://www.greenlivingfoundation.org"
-        }
-      ]
-    },
-    "advertisement": {
-      "title": "Harness the Power of Green Energy",
-      "description": "Go eco-friendly with our solar panels and energy-efficient solutions. Save money and the environment.",
-      "image_url": "https://www.ecotechsolutions.com/images/green-energy.jpg",
-      "cta_text": "Learn More",
-      "cta_url": "https://www.ecotechsolutions.com/green-energy",
-      "promo_code": "ECOPOWER20",
-      "valid_until": "2023-12-31",
-      "additional_images": [
-        "https://www.ecotechsolutions.com/images/solar-panel-1.jpg",
-        "https://www.ecotechsolutions.com/images/solar-panel-2.jpg"
-      ],
-      "features": [
-        "Highly efficient solar panels",
-        "Advanced energy storage solutions",
-        "Smart energy management systems"
-      ],
-      "usage_examples": [
-        "Residential solar installations",
-        "Commercial energy optimization",
-        "Off-grid power solutions"
-      ],
-      "benefits": [
-        "Reduced energy bills",
-        "Lower carbon footprint",
-        "Energy independence"
-      ],
-      "reviews": [
-        {
-          "author": "GreenEnthusiast123",
-          "rating": 4.8,
-          "comment": "The solar panels transformed my energy consumption. Highly recommend!"
-        },
-        {
-          "author": "ClimateAdvocate456",
-          "rating": 5.0,
-          "comment": "A step towards a sustainable future. Exceptional products and service."
-        }
-      ],
-      "analytics": {
-        "views": 1523,
-        "clicks": 326,
-        "conversion_rate": "21%"
-      }
-    }
+    "id": 3,
+    "name": "JOYROOM",
+    "category": "Clothing",
+    "image": "https://www.shopz.com.bd/wp-content/uploads/2022/05/Joyroom-Logo.jpg",
+    "description": "Joyroom aims to provide users with high-quality and innovative accessories that complement devices.",
+    "price": 0,
+    "ratings": 4.4
   },
   {
-    "id": "ad101",
-    "company": {
-      "name": "EcoTech Solutions",
-      "logo_url": "https://www.shopz.com.bd/wp-content/uploads/2022/04/Realme-logo.jpg",
-      "website": "https://www.ecotechsolutions.com",
-      "tagline": "Empowering a Sustainable Future",
-      "overview": "EcoTech Solutions is a leading provider of eco-friendly energy solutions, committed to reducing carbon footprint and promoting green living.",
-      "mission": "Our mission is to provide innovative and reliable renewable energy solutions that contribute to a cleaner and greener planet.",
-      "values": ["Sustainability", "Innovation", "Customer-Centric Approach"],
-      "contact": {
-        "email": "info@ecotechsolutions.com",
-        "phone": "+789-012-3456",
-        "address": {
-          "street": "789 Eco Street",
-          "city": "Greenville",
-          "state": "Sustainville",
-          "postal_code": "54321",
-          "country": "EcoLand"
-        }
-      },
-      "social_media": {
-        "twitter": "https://www.twitter.com/ecotechsolutions",
-        "linkedin": "https://www.linkedin.com/company/ecotechsolutions",
-        "facebook": "https://www.facebook.com/ecotechsolutions"
-      },
-      "awards": ["Green Innovator Award 2022", "Sustainability Excellence Award"],
-      "certifications": ["ISO 14001:2015", "Energy Star Partner"],
-      "team": [
-        {
-          "name": "John Green",
-          "title": "Founder and CEO",
-          "bio": "John Green is a visionary leader with over 20 years of experience in the renewable energy industry...",
-          "linkedin": "https://www.linkedin.com/in/johngreen"
-        },
-        {
-          "name": "Emily Woods",
-          "title": "Chief Sustainability Officer",
-          "bio": "Emily Woods is a passionate advocate for sustainable practices...",
-          "linkedin": "https://www.linkedin.com/in/emilywoods"
-        }
-      ],
-      "partnerships": [
-        {
-          "name": "SolarTech Innovations",
-          "logo_url": "https://www.solarTechInnovations.com/logo.png",
-          "website": "https://www.solartechinnovations.com"
-        },
-        {
-          "name": "GreenLiving Foundation",
-          "logo_url": "https://www.greenlivingfoundation.org/logo.png",
-          "website": "https://www.greenlivingfoundation.org"
-        }
-      ]
-    },
-    "advertisement": {
-      "title": "Harness the Power of Green Energy",
-      "description": "Go eco-friendly with our solar panels and energy-efficient solutions. Save money and the environment.",
-      "image_url": "https://www.ecotechsolutions.com/images/green-energy.jpg",
-      "cta_text": "Learn More",
-      "cta_url": "https://www.ecotechsolutions.com/green-energy",
-      "promo_code": "ECOPOWER20",
-      "valid_until": "2023-12-31",
-      "additional_images": [
-        "https://www.ecotechsolutions.com/images/solar-panel-1.jpg",
-        "https://www.ecotechsolutions.com/images/solar-panel-2.jpg"
-      ],
-      "features": [
-        "Highly efficient solar panels",
-        "Advanced energy storage solutions",
-        "Smart energy management systems"
-      ],
-      "usage_examples": [
-        "Residential solar installations",
-        "Commercial energy optimization",
-        "Off-grid power solutions"
-      ],
-      "benefits": [
-        "Reduced energy bills",
-        "Lower carbon footprint",
-        "Energy independence"
-      ],
-      "reviews": [
-        {
-          "author": "GreenEnthusiast123",
-          "rating": 4.8,
-          "comment": "The solar panels transformed my energy consumption. Highly recommend!"
-        },
-        {
-          "author": "ClimateAdvocate456",
-          "rating": 5.0,
-          "comment": "A step towards a sustainable future. Exceptional products and service."
-        }
-      ],
-      "analytics": {
-        "views": 1523,
-        "clicks": 326,
-        "conversion_rate": "21%"
-      }
-    }
+    "id": 4,
+    "name": "REALME",
+    "category": "Home",
+    "image": "https://www.shopz.com.bd/wp-content/uploads/2022/04/Realme-logo.jpg",
+    "description": "Realme is a biggest Chinese smartphone manufacturer that was founded in May 2018 as a subsidiary of Oppo.",
+    "price": 0,
+    "ratings": 4.8
   },
   {
-    "id": "ad101",
-    "company": {
-      "name": "EcoTech Solutions",
-      "logo_url": "https://www.shopz.com.bd/wp-content/uploads/2022/04/Realme-logo.jpg",
-      "website": "https://www.ecotechsolutions.com",
-      "tagline": "Empowering a Sustainable Future",
-      "overview": "EcoTech Solutions is a leading provider of eco-friendly energy solutions, committed to reducing carbon footprint and promoting green living.",
-      "mission": "Our mission is to provide innovative and reliable renewable energy solutions that contribute to a cleaner and greener planet.",
-      "values": ["Sustainability", "Innovation", "Customer-Centric Approach"],
-      "contact": {
-        "email": "info@ecotechsolutions.com",
-        "phone": "+789-012-3456",
-        "address": {
-          "street": "789 Eco Street",
-          "city": "Greenville",
-          "state": "Sustainville",
-          "postal_code": "54321",
-          "country": "EcoLand"
-        }
-      },
-      "social_media": {
-        "twitter": "https://www.twitter.com/ecotechsolutions",
-        "linkedin": "https://www.linkedin.com/company/ecotechsolutions",
-        "facebook": "https://www.facebook.com/ecotechsolutions"
-      },
-      "awards": ["Green Innovator Award 2022", "Sustainability Excellence Award"],
-      "certifications": ["ISO 14001:2015", "Energy Star Partner"],
-      "team": [
-        {
-          "name": "John Green",
-          "title": "Founder and CEO",
-          "bio": "John Green is a visionary leader with over 20 years of experience in the renewable energy industry...",
-          "linkedin": "https://www.linkedin.com/in/johngreen"
-        },
-        {
-          "name": "Emily Woods",
-          "title": "Chief Sustainability Officer",
-          "bio": "Emily Woods is a passionate advocate for sustainable practices...",
-          "linkedin": "https://www.linkedin.com/in/emilywoods"
-        }
-      ],
-      "partnerships": [
-        {
-          "name": "SolarTech Innovations",
-          "logo_url": "https://www.solarTechInnovations.com/logo.png",
-          "website": "https://www.solartechinnovations.com"
-        },
-        {
-          "name": "GreenLiving Foundation",
-          "logo_url": "https://www.greenlivingfoundation.org/logo.png",
-          "website": "https://www.greenlivingfoundation.org"
-        }
-      ]
-    },
-    "advertisement": {
-      "title": "Harness the Power of Green Energy",
-      "description": "Go eco-friendly with our solar panels and energy-efficient solutions. Save money and the environment.",
-      "image_url": "https://www.ecotechsolutions.com/images/green-energy.jpg",
-      "cta_text": "Learn More",
-      "cta_url": "https://www.ecotechsolutions.com/green-energy",
-      "promo_code": "ECOPOWER20",
-      "valid_until": "2023-12-31",
-      "additional_images": [
-        "https://www.ecotechsolutions.com/images/solar-panel-1.jpg",
-        "https://www.ecotechsolutions.com/images/solar-panel-2.jpg"
-      ],
-      "features": [
-        "Highly efficient solar panels",
-        "Advanced energy storage solutions",
-        "Smart energy management systems"
-      ],
-      "usage_examples": [
-        "Residential solar installations",
-        "Commercial energy optimization",
-        "Off-grid power solutions"
-      ],
-      "benefits": [
-        "Reduced energy bills",
-        "Lower carbon footprint",
-        "Energy independence"
-      ],
-      "reviews": [
-        {
-          "author": "GreenEnthusiast123",
-          "rating": 4.8,
-          "comment": "The solar panels transformed my energy consumption. Highly recommend!"
-        },
-        {
-          "author": "ClimateAdvocate456",
-          "rating": 5.0,
-          "comment": "A step towards a sustainable future. Exceptional products and service."
-        }
-      ],
-      "analytics": {
-        "views": 1523,
-        "clicks": 326,
-        "conversion_rate": "21%"
-      }
-    }
+    "id": 5,
+    "name": "UGREEN",
+    "category": "Food & Beverages",
+    "image": "https://www.shopz.com.bd/wp-content/uploads/2022/05/UGREEN-Logo.jpg",
+    "description": "UGREEN is a popular Chinese company that specializes in manufacturing and providing a wide range of electronic.",
+    "price": 0,
+    "ratings": 4.5
   },
   {
-    "id": "ad101",
-    "company": {
-      "name": "EcoTech Solutions",
-      "logo_url": "https://www.shopz.com.bd/wp-content/uploads/2022/04/Realme-logo.jpg",
-      "website": "https://www.ecotechsolutions.com",
-      "tagline": "Empowering a Sustainable Future",
-      "overview": "EcoTech Solutions is a leading provider of eco-friendly energy solutions, committed to reducing carbon footprint and promoting green living.",
-      "mission": "Our mission is to provide innovative and reliable renewable energy solutions that contribute to a cleaner and greener planet.",
-      "values": ["Sustainability", "Innovation", "Customer-Centric Approach"],
-      "contact": {
-        "email": "info@ecotechsolutions.com",
-        "phone": "+789-012-3456",
-        "address": {
-          "street": "789 Eco Street",
-          "city": "Greenville",
-          "state": "Sustainville",
-          "postal_code": "54321",
-          "country": "EcoLand"
-        }
-      },
-      "social_media": {
-        "twitter": "https://www.twitter.com/ecotechsolutions",
-        "linkedin": "https://www.linkedin.com/company/ecotechsolutions",
-        "facebook": "https://www.facebook.com/ecotechsolutions"
-      },
-      "awards": ["Green Innovator Award 2022", "Sustainability Excellence Award"],
-      "certifications": ["ISO 14001:2015", "Energy Star Partner"],
-      "team": [
-        {
-          "name": "John Green",
-          "title": "Founder and CEO",
-          "bio": "John Green is a visionary leader with over 20 years of experience in the renewable energy industry...",
-          "linkedin": "https://www.linkedin.com/in/johngreen"
-        },
-        {
-          "name": "Emily Woods",
-          "title": "Chief Sustainability Officer",
-          "bio": "Emily Woods is a passionate advocate for sustainable practices...",
-          "linkedin": "https://www.linkedin.com/in/emilywoods"
-        }
-      ],
-      "partnerships": [
-        {
-          "name": "SolarTech Innovations",
-          "logo_url": "https://www.solarTechInnovations.com/logo.png",
-          "website": "https://www.solartechinnovations.com"
-        },
-        {
-          "name": "GreenLiving Foundation",
-          "logo_url": "https://www.greenlivingfoundation.org/logo.png",
-          "website": "https://www.greenlivingfoundation.org"
-        }
-      ]
-    },
-    "advertisement": {
-      "title": "Harness the Power of Green Energy",
-      "description": "Go eco-friendly with our solar panels and energy-efficient solutions. Save money and the environment.",
-      "image_url": "https://www.ecotechsolutions.com/images/green-energy.jpg",
-      "cta_text": "Learn More",
-      "cta_url": "https://www.ecotechsolutions.com/green-energy",
-      "promo_code": "ECOPOWER20",
-      "valid_until": "2023-12-31",
-      "additional_images": [
-        "https://www.ecotechsolutions.com/images/solar-panel-1.jpg",
-        "https://www.ecotechsolutions.com/images/solar-panel-2.jpg"
-      ],
-      "features": [
-        "Highly efficient solar panels",
-        "Advanced energy storage solutions",
-        "Smart energy management systems"
-      ],
-      "usage_examples": [
-        "Residential solar installations",
-        "Commercial energy optimization",
-        "Off-grid power solutions"
-      ],
-      "benefits": [
-        "Reduced energy bills",
-        "Lower carbon footprint",
-        "Energy independence"
-      ],
-      "reviews": [
-        {
-          "author": "GreenEnthusiast123",
-          "rating": 4.8,
-          "comment": "The solar panels transformed my energy consumption. Highly recommend!"
-        },
-        {
-          "author": "ClimateAdvocate456",
-          "rating": 5.0,
-          "comment": "A step towards a sustainable future. Exceptional products and service."
-        }
-      ],
-      "analytics": {
-        "views": 1523,
-        "clicks": 326,
-        "conversion_rate": "21%"
-      }
-    }
+    "id": 6,
+    "name": "SUPER STAR GROUP",
+    "category": "Outdoor",
+    "image": "https://www.shopz.com.bd/wp-content/uploads/2023/03/Super-Star-Logo.jpg",
+    "description": "Super star group company is a most popular electronics brand company in bangladesh. It is a group of company.",
+    "price": 0,
+    "ratings": 4.2
+  },
+  {
+    "id": 7,
+    "name": "SENCOR",
+    "category": "Electronics",
+    "image": "https://www.shopz.com.bd/wp-content/uploads/2023/03/SENCOR-Logo.jpg",
+    "description": "SENCOŘ is a Czech brand that produces a wide range of consumer electronics and appliances. The brand established in 1969.",
+    "price": 0,
+    "ratings": 4.3
+  },
+  {
+    "id": 8,
+    "name": "ANKER",
+    "category": "Health & Fitness",
+    "image": "https://www.shopz.com.bd/wp-content/uploads/2021/11/Anker-Logo.jpg",
+    "description": "Anker Innovations is a global technology company that specializes in designing and manufacturing a wide range of electronics.",
+    "price": 0,
+    "ratings": 3.9
+  },
+  {
+    "id": 9,
+    "name": "DELL",
+    "category": "Pets",
+    "image": "https://www.shopz.com.bd/wp-content/uploads/2022/02/Dell-Logo.jpg",
+    "description": "Dell is a multinational technology company that specializes in developing, selling, and supporting computers etc.",
+    "price": 0,
+    "ratings": 4.9
   }
-  
 ]

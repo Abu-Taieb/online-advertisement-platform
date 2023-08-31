@@ -6,7 +6,7 @@ const Advertisement = () => {
   const [showAll, setShowAll] = useState(false);
 
   useEffect(() => {
-    fetch("https://online-advertisement.vercel.app/advertisements")
+    fetch('advertisement.json')
       .then((res) => res.json())
       .then((data) => setAdds(data));
   }, []);

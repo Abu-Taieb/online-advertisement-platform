@@ -1,13 +1,6 @@
 import { useEffect, useState } from "react";
-import { Link, useParams } from "react-router-dom";
-import {
-  FaEnvelope,
-  FaPhone,
-  FaTwitter,
-  FaLinkedin,
-  FaFacebook,
-  FaInstagram,
-} from "react-icons/fa"; // Import social icons
+import { useParams } from "react-router-dom";
+import { FaTwitter, FaLinkedin, FaFacebook, FaInstagram } from "react-icons/fa"; // Import social icons
 
 const CardDetails = () => {
   const { id } = useParams();
@@ -15,7 +8,7 @@ const CardDetails = () => {
   const [adDetails, setAdDetails] = useState({});
 
   useEffect(() => {
-    fetch(`https://online-advertisement.vercel.app/advertisement/${id}`)
+    fetch(`advertisement.json/${id}`)
       .then((res) => res.json())
       .then((data) => setAdDetails(data));
   }, [id]);
@@ -35,11 +28,14 @@ const CardDetails = () => {
               </div>
 
               <div className="col-span-2">
-                <h2 className="card-title text-3xl font-bold mb-6">{adDetails.title}</h2>
+                <h2 className="card-title text-3xl font-bold mb-6">
+                  {adDetails.title}
+                </h2>
                 <p className="text-lg mb-1">{adDetails.description}</p>
                 <p className="text-lg mb-1">Rating: {adDetails.rating}</p>
                 <p className="text-lg mb-1">
-                  Location: {adDetails.city}, {adDetails.state}, {adDetails.country}
+                  Location: {adDetails.city}, {adDetails.state},{" "}
+                  {adDetails.country}
                 </p>
 
                 <p className="text-lg mb-1">Email: {adDetails.email}</p>
@@ -47,8 +43,8 @@ const CardDetails = () => {
 
                 <p className="text-lg mb-1">Address:</p>
                 <address>
-                  {adDetails.street}, {adDetails.city}, {adDetails.state}, {adDetails.country},{" "}
-                  {adDetails.postal_code}
+                  {adDetails.street}, {adDetails.city}, {adDetails.state},{" "}
+                  {adDetails.country}, {adDetails.postal_code}
                 </address>
 
                 {/* Social Icons */}
@@ -62,7 +58,11 @@ const CardDetails = () => {
                   <a target="_blank" href={adDetails.facebook} className="mr-3">
                     <FaFacebook size={26} color="#3b5998" />
                   </a>
-                  <a target="_blank" href={adDetails.instagram} className="mr-3">
+                  <a
+                    target="_blank"
+                    href={adDetails.instagram}
+                    className="mr-3"
+                  >
                     <FaInstagram size={26} color="#0A66C2" />
                   </a>
                 </div>
