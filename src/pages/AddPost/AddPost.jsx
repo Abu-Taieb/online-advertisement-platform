@@ -37,7 +37,7 @@ const AddPost = () => {
             <h2 className="text-3xl font-bold">Add your first post</h2>
             <form onSubmit={handleSubmit} className="ml-20">
                 <label htmlFor="name">Name</label> <br />
-                <input type="text" name="name" placeholder="Name" /><br /><br />
+                <input type="text" name="name" placeholder="Names" /><br /><br />
 
                 <label htmlFor="category">Category</label> <br />
                 <input type="text" name="category" placeholder="Category" /><br /><br />

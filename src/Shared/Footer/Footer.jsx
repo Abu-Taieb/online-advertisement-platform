@@ -5,7 +5,7 @@ const Footer = () => {
       <div>
       <img style={{height: '90px', width: '140px'}} src={logo} alt="" />
         <p>
-          ACME Industries Ltd.
+          Advertise Now For You.
           <br />
           Providing reliable tech since 1992
         </p>
