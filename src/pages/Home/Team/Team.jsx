@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 const Team = () => {
   return (
     <div className="bg-orange-100">
-      <div className="grid grid-cols-1 md:grid-cols-2 gap-20 py-32 justify-between items-center my-20 px-5 w-11/12 mx-auto">
+      <div className="grid grid-cols-1 md:grid-cols-2 gap-20 py-32 justify-between items-center  px-5 w-11/12 mx-auto">
         <div className="w-full">
           <img
             className=""
