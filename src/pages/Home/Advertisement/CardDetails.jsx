@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-import { useParams } from "react-router-dom";
+import { Link, useParams } from "react-router-dom";
 import { FaTwitter, FaLinkedin, FaFacebook, FaInstagram } from "react-icons/fa"; // Import social icons
 
 const CardDetails = () => {
@@ -68,12 +68,12 @@ const CardDetails = () => {
                 </div>
 
                 {/* CTA Button */}
-                <a
+                <Link to={'/'}
                   href={adDetails.website}
                   className="btn bg-orange-500 hover:bg-orange-600 text-white mt-4"
                 >
                   See more
-                </a>
+                </Link>
               </div>
             </div>
           </div>

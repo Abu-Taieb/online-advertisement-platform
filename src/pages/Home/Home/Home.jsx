@@ -5,6 +5,7 @@ import Team from "../Team/Team";
 import Feedback from "../Feedback/Feedback";
 import Advertisement from "../Advertisement/Advertisement";
 import Services from "../Services/Services";
+import Contact from "../Contact/Contact";
 
 
 const Home = () => {
@@ -17,6 +18,7 @@ const Home = () => {
             <Team></Team>
             <NewsLetter></NewsLetter>
             <Feedback></Feedback>
+            <Contact></Contact>
         </div>
     );
 };

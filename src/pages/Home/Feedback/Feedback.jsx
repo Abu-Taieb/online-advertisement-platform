@@ -127,13 +127,24 @@ const Feedback = () => {
           {/* Feedback Form */}
           {showFeedbackForm && (
             <div className="flex flex-col items-center ">
-              <h2 className="text-2xl font-semibold mb-4">
-                Leave Your Feedback
+              <h2 className="text-2xl font-semibold mb-10">
+                Please insert your opinion
               </h2>
 
-              <form onSubmit={handleFeedbackSubmit} className="w-full max-w-md">
+              <form onSubmit={handleFeedbackSubmit} className="w-full max-w-md text-center">
+                <div className="mb-4">
+                  <Rating
+                    id="rating"
+                    name="rating"
+                    className="text-yellow-400 mx-auto"
+                    style={{ maxWidth: 150 }}
+                    value={selectedRating}
+                    onChange={(value) => setSelectedRating(value)} // Update the selected rating
+                  />
+                </div>
+                <ToastContainer></ToastContainer>
                 <div className="grid grid-cols-2 gap-5">
-                  <div className="mb-4 ">
+                  <div className="mb-4 text-left">
                     <label
                       htmlFor="name"
                       className="block text-sm font-medium text-gray-700"
@@ -146,11 +157,11 @@ const Feedback = () => {
                       type="text"
                       id="name"
                       name="commpanyName"
-                      className="mt-1 p-2 w-full rounded focus:border-orange-500 focus:ring focus:ring-orange-200 border border-orange-300"
+                      className="mt-1 p-2 w-full input rounded input-bordered input-warning"
                       placeholder="Your Name"
                     />
                   </div>
-                  <div className="mb-4">
+                  <div className="mb-4 text-left">
                     <label
                       htmlFor="email"
                       className="block text-sm font-medium text-gray-700"
@@ -163,23 +174,13 @@ const Feedback = () => {
                       type="email"
                       id="email"
                       name="email"
-                      className="mt-1 p-2 w-full rounded focus:border-orange-500 focus:ring focus:ring-orange-200 border border-orange-300"
+                      className="mt-1 p-2 w-full input rounded input-bordered input-warning"
                       placeholder="Your Email"
                     />
                   </div>
                 </div>
-                <div className="mb-4">
-                  <Rating
-                    id="rating"
-                    name="rating"
-                    className="text-yellow-400 mx-auto"
-                    style={{ maxWidth: 150 }}
-                    value={selectedRating}
-                    onChange={(value) => setSelectedRating(value)} // Update the selected rating
-                  />
-                </div>
-                <ToastContainer></ToastContainer>
-                <div className="mb-4">
+
+                <div className="mb-4 text-left">
                   <label
                     htmlFor="feedback"
                     className="block text-sm font-medium text-gray-700"
@@ -191,7 +192,7 @@ const Feedback = () => {
                     id="feedback"
                     name="feedback"
                     rows="4"
-                    className="mt-1 p-2 w-full rounded focus:border-orange-500 focus:ring focus:ring-orange-200 border border-orange-300"
+                    className="mt-1 p-2 w-full textarea textarea-warning"
                     placeholder="Your Feedback"
                   ></textarea>
                 </div>
